@@ -1,1 +1,1 @@
-# curso-html-ativ-1
+Atividade realizada com desafio durante a formação como desenvolvidora HTML na DIO.me
