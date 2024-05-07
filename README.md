@@ -1,1 +1,1 @@
-Atividade realizada com desafio durante a formação como desenvolvidora HTML na DIO.me
+Atividade realizada como desafio durante a formação como desenvolvedor HTML na DIO.me
